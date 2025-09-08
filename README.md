@@ -1,3 +1,2 @@
-# Sanjanasapkal
-This is 
-skajhkag
+# Sanjana Sapkal
+This is my first repository.
